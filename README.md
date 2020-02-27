@@ -1,0 +1,2 @@
+# decorator-example
+Decorator pattern
